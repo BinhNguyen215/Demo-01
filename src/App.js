@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.facebook.com/profile.php?id=100013033413902"
+          href="https://github.com/BinhNguyen215/Demo-01.git"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Facebook
+          github
         </a>
       </header>
     </div>
